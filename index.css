@@ -1,0 +1,109 @@
+*{padding: 0px; margin-top: 0px; box-sizing: border-box;}
+.header{
+	background: #fff;
+	padding: 10px 0 0;
+}
+.midimg{
+	max-width:100%;
+}
+.heroimg{
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	left:0px;
+	top: 0px;
+	background: url('images/image1.jpg') no-repeat 50% 70%;
+	z-index: -1;
+	background-size: cover;
+}
+
+.register{
+	position: absolute;
+	right: 10px;
+	top:26px;
+
+}
+.log{
+	margin-right: 30px;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	color:black;
+	position: relative;
+	top: 6px;
+}
+.log:hover{
+	text-decoration: underline;
+}
+.link-holder{
+	background: #303a50;
+	width: 100%;
+	z-index: 10;
+	margin: 10px 0 0;
+}
+.link{
+	display: flex;
+	flex-wrap: nowrap;
+	
+}
+.sublink{
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+    background-color: #303a50;
+    padding: 3px 19px;
+    color: white;	
+    width: 50%;
+    height: 40px;
+    line-height: 35px;
+    text-align: center;
+}
+.sublink:hover{
+	text-decoration: none;
+	background-color: #4197ee;
+}
+.logotext{
+	position: absolute;
+	top: 4px;
+	margin-left: 48px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+}
+.top{
+	
+	margin-left: 17px;
+}
+/* view appointment */
+body{
+	background: #ececec;
+}
+.container{
+	max-width:1140px;
+	margin: 0 auto;
+}
+.content{
+	padding: 40px 30px;
+	background: #fff;
+}
+.content h2{
+	font-size: 18px;
+	padding: 10px 0;
+	margin:0 0 30px 0;
+	font-weight: bold;
+}
+table{
+	background: #fff;
+}
+.table tr td{
+	font-size: 13px;
+	width: 20%;
+	padding: 7px 10px;
+}
+table .heading{
+	background: #ccc;
+}
+table .heading td{
+	padding: 10px 10px;
+	font-size: 12px;
+	vertical-align: middle;
+	}

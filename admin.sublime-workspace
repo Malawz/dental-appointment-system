@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"product_indent"
+			],
+			[
+				"product_",
+				"product_code"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"external",
+				"external_ezfurn"
+			],
+			[
+				"pron",
+				"pronto_inventory"
+			],
+			[
+				"indent",
+				"indentproducts"
+			],
+			[
+				"exter",
+				"external_ezfurn"
+			],
+			[
+				"produc",
+				"Product_code"
+			],
+			[
+				"row",
+				"row_array"
+			],
+			[
+				"Inde",
+				"Indentproducts_model"
+			],
+			[
+				"product_indent_",
+				"product_indent_src_id"
+			],
+			[
+				"prodc",
+				"product_code"
+			],
+			[
+				"old",
+				"old_quantity"
+			],
+			[
+				"In",
+				"Indentproducts_model"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"quote",
+				"quote-table"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"table",
+				"table\tdisplay"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"ht",
+				"htmlentities"
+			],
+			[
+				"col-",
+				"col-lg-6"
+			],
+			[
+				"col-lg",
+				"col-lg-2"
+			],
+			[
+				"mt-b",
+				"mt-btn-gp"
+			],
+			[
+				"mti-note",
+				"mti-note-user"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"mt-",
+				"mt-title"
+			],
+			[
+				"border-top",
+				"border-top-color\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"final",
+				"finalarray"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"va",
+				"vale"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"the",
+				"themes"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"gri",
+				"grid__item"
+			],
+			[
+				"backgrou",
+				"background-size\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"inven",
+				"inventory_item_id"
+			],
+			[
+				"range",
+				"range_item"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"stick",
+				"sticky-holder"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"t",
+				"transform\tproperty"
+			],
+			[
+				"ah",
+				"ahbody"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"shopify_app",
+				"SHOPIFY_APPP_PASSWORD"
+			],
+			[
+				"shopi",
+				"SHOPIFY_APPP_API_KEY"
+			],
+			[
+				"S",
+				"SHOPIFY_SHOPP"
+			],
+			[
+				"li",
+				"liquid"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"template",
+				"templates"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"snippe",
+				"snippets"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"tr",
+				"true"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/indentproduct/models/Indentproductsdata_model.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/prontoinventory/controllers/Prontostock.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/prontoinventory/models/Pronto_model.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/indentproduct/models/Indentproducts_model.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/logs/log-2019-07-12.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/indentproduct/controllers/Indentproductsdata.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/indentproduct/views/indentproductgrid.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/indentproduct/controllers/Indentproducts.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/views/template/blocks/admin_sidebar.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/prontoinventory/models/Pronto_model.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/prontoinventory/models/Products_shopify.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/prontoinventory/models/Pronto_data_model.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/prontoinventory/controllers/Prontodata.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/prontoinventory/views/prontogrid.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/logs/log-2019-07-10.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/prontoinventory/views/productgrid.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/prontoinventory/models/Product_model.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/logs/log-2019-07-09.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/logs/log-2019-07-08.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/config/constants.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/config/database.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/config/database.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/config/routes.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/config/routes.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/views/emails/rentalquotemail.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/views/emails/rentalquoteemailplace.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/contact/controllers/Contact.php",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/layout/theme.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/assets/bulk.scss.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/snippets/conditional_stylesheet.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/snippets/is_rent.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/snippets/site-nav.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/assets/rental.scss.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/config.yml",
+		"/Applications/MAMP/htdocs/jasonl/assembly/backup/Assemblydata.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/assembly/controllers/Assemblydata.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/.gitignore",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/snippets/is_rent.html",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/contact/models/Contact_data.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/contact/controllers/Quote.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/modules/contact/controllers/Contactdata.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/views/emails/rentaladminquoteemail.php",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/views/emails/bulkquotemail.php",
+		"/Applications/MAMP/htdocs/nilaa/html/test.html",
+		"/Applications/MAMP/htdocs/jasonl/stagemiddleware/jasonl_middleware/application/views/emails/bulkadminquoteemail.php",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/templates/page.rent-checkout.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/snippets/addtocart-normal.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/templates/product.liquid",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/contact/controllers/Quote.php",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/templates/page.bulkbuy-checkout.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/templates/page.rent-listing.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/sections/rent-listing.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/templates/page.bulk-listing.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/assets/plugin.scss.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/assets/js-plugin.js.liquid",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/indentproduct/models/Indentproducts_model.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/indentproduct/controllers/Indentproducts.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/prontoinventory/models/Product_model.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/indentproduct/controllers/Test.php",
+		"/Applications/MAMP/htdocs/test/drive_api/vendor/google/auth/src/OAuth2.php",
+		"/Applications/MAMP/htdocs/test/drive_api2/quickstart.php",
+		"/Applications/MAMP/htdocs/test/drive_api/quickstart.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/prontoinventory/controllers/Prontodata.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/prontoinventory/controllers/Prontostock.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/prontoinventory/controllers/Getallproducts.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/prontoinventory/controllers/Prontosetting.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/orders/models/Orders_data.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/pages/models/Orders_data.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/assembly/controllers/Assemblydata.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/indentproduct/controllers/quickstart.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/indentproduct/controllers/token.json",
+		"/Applications/MAMP/htdocs/test/drive_api2/token.json",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/indentproduct/models/Indentproducts_model",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/indentproduct/controllers/credentials.json",
+		"/Applications/MAMP/htdocs/test/drive_api/credentials.json",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/indent-qty/gyrovi_development-jasonl_middleware-97416c5007dc/application/modules/prontoinventory/models/Pronto_model.php",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/indent-qty/gyrovi_development-jasonl_middleware-97416c5007dc/application/modules/prontoinventory/controllers/Prontostock.php",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/jasonl-shopify-theme/snippets/color-option.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/test/shopify_malaw_store/test-repo-1/config.yml",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/test/shopify_malaw_store/test-repo-1/layout/theme.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/test/untitled folder/config.yml",
+		"/Users/mac/Downloads/downloads/updateowner page/block.html",
+		"/Users/mac/Downloads/downloads/updateowner page/style.css",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/test/shopify_malaw_store/layout/theme.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/test/shopify_malaw_store/config.yml",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/layout/theme.liquid",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/shopify-JasonL/shopify-JasonL__theme/config.yml",
+		"/Users/mac/Downloads/icomoon (1)/style.css",
+		"/Applications/MAMP/htdocs/nilaa/html/profile.html",
+		"/Applications/MAMP/htdocs/nilaa/html/css/theme-pricing.css",
+		"/Applications/MAMP/htdocs/nilaa/html/css/theme.css",
+		"/Applications/MAMP/htdocs/nilaa/html/css/style.css",
+		"/Applications/MAMP/htdocs/nilaa/html/service.html",
+		"/Volumes/prontomiddleware/assets/css/quote_contact.css",
+		"/Volumes/prontomiddleware/application/modules/contact/views/quotedetail.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/shipping/shipping",
+		"/Users/mac/Downloads/downloads/theme_export__jasonldev-myshopify-com-copy-of-jasonl-live-2017-12-05__22APR2019-0339pm (1)/templates/product.liquid",
+		"/Applications/MAMP/htdocs/mahesh/career_v6/assets/css/mt-main-style.css",
+		"/Applications/MAMP/htdocs/mahesh/career_v6/client.html",
+		"/Applications/MAMP/htdocs/mahesh/career_v6/service-provider_promotion.html",
+		"/Applications/MAMP/htdocs/mahesh/career_v6/assets/js/mt-main.js",
+		"/Applications/MAMP/htdocs/mahesh/career_v6/carer.html",
+		"/Applications/MAMP/htdocs/mahesh/career_v6/find-chart.html",
+		"/Applications/MAMP/htdocs/mahesh/career_v6/assets/library/mt-icons/style.css",
+		"/Applications/MAMP/htdocs/mahesh/career_v6/assets/css/mt-icon-style.css",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/development-task/new-menu/font-menu/jasonlicon/style.css",
+		"/Users/mac/Downloads/index.html",
+		"/Applications/MAMP/htdocs/mahesh/new/f-career/index.html",
+		"/Applications/MAMP/htdocs/mahesh/new/f-career/index.php",
+		"/Applications/MAMP/htdocs/mahesh/new/f-career/assets/js/vendor/moment.js",
+		"/Applications/MAMP/htdocs/mahesh/new/f-career/assets/css/fullcalendar.min.css",
+		"/Applications/MAMP/htdocs/mahesh/new/find-career-new/assets/css/mt-main-style.css",
+		"/Applications/MAMP/htdocs/mahesh/new/find-career-new/assets/js/mt-main.js",
+		"/Applications/MAMP/htdocs/mahesh/new/find-career-new/index.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/assembly/controllers/Assemblydatadetail.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/assembly/controllers/live-backup/Assemblydata.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/assembly/controllers/live-backup/test/Assemblydata.php",
+		"/Applications/MAMP/htdocs/test2/test.php",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/development-task/new-menu/font-menu/jasonlicon (1)/style.css",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/assembly/controllers/assemblydata_backup_jan29_2019.php",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/development-task/new-menu/font-menu/jasonlicon (2)/style.css",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/development-task/new-menu/jasonlicon (1)/style.css",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/development-task/page-speed/icons/jasonlicon/style.css",
+		"/Users/mac/Desktop/recently-viewed-icon.svg",
+		"/Users/mac/Documents/app1/jasonl/jasonl-task/development-task/page-speed/icons/jasonlicon/selection.json",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/modules/assembly/controllers/Metafields.php",
+		"/Applications/MAMP/htdocs/stagemiddleware/application/config/constants.php",
+		"/Users/mac/Downloads/downloads/MapIt-master/demo/javascripts/initializers.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"</div><!--end #main-->"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

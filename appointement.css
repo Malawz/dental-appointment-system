@@ -1,0 +1,19 @@
+
+#submit{
+
+	
+	background-color: #1984f1;
+	padding: 10px 20px;
+	color: white;
+	border-style: none;
+	border: collapse;
+}
+#submit:hover{
+
+	background-color: #4197ee;
+}
+.page{
+	margin-left: 39%;
+	color: black;
+	font-family: 'Lato', sans-serif;
+}
